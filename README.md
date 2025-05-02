@@ -56,7 +56,7 @@ python app.py
 ### Example Input
 
 ```
-name; gender; dob; deposit; withdraw; signup_date; bets; gross_win
+name; gender; dob; deposit; withdraw; signup_date; transfers; payments
 ```
 
 ## 🛠️ Technical Details
